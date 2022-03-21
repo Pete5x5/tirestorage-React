@@ -88,17 +88,17 @@
 }
 .icon1 {
   fill: var(--dl-color-gray-700);
-  width: var(--dl-size-size-small);
-  height: var(--dl-size-size-small);
+  width: var(--dl-size-size-medium);
+  height: var(--dl-size-size-medium);
 }
 .iconTitle {
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
 }
 .iconText {
   color: var(--dl-color-gray-700);
-  font-size: 0.75rem;
+  font-size: 1rem;
   margin-top: var(--dl-space-space-halfunit);
   text-align: center;
 }
